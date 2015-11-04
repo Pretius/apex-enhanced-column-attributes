@@ -1,9 +1,9 @@
 {
-  "name" : "APEX Enhanced Column Attributes",
+  "name" : "Pretius Enhanced Column Attributes",
   "version" : "1.0.0",
   "description" : "APEX Enhanced Column Attributes is a Chrome extension that extends APEX v.4.1+ application builder",
   "keywords" : ["chrome", "column", "attributes"],
-  "homepage" : "http://apex.pretius.com",
+  "homepage" : "http://pretius.com/technologies/oracle-apex/",
   "bugs" : {
     "url" : "http://apex.pretius.com",
     "email" : "apex@pretius.com"
