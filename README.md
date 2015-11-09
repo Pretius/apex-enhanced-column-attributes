@@ -1,3 +1,8 @@
+##Check our APEX Plugins
+* Pretius APEX Client Side Validation -> http://bit.ly/1NEPR5T
+* Pretius APEX Enhanced LOV item -> http://bit.ly/1iO8qrr
+* Pretius APEX Enhanced Column Attributes -> http://bit.ly/1GT5Pbg
+
 ##Overview
 APEX Enhanced Column Attributes is a Chrome extension that extends APEX v.4.1+ application builder.
 Plugin "APEX Enhanced Column Attributes" has been developed for Oracle Application Express 4.1.1.00.23 because lack of handy column management functionalities in former APEX.
