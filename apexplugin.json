@@ -3,9 +3,9 @@
   "version" : "1.0.0",
   "description" : "APEX Enhanced Column Attributes is a Chrome extension that extends APEX v.4.1+ application builder",
   "keywords" : ["chrome", "column", "attributes"],
-  "homepage" : "http://pretius.com/technologies/oracle-apex/",
+  "homepage" : "http://pretius.com/technologies/apex-chrome-extension-2/",
   "bugs" : {
-    "url" : "http://apex.pretius.com",
+    "url" : "https://github.com/Pretius/apex-enhanced-column-attributes/issues",
     "email" : "apex@pretius.com"
   },
   "license" : "MIT",
@@ -19,7 +19,7 @@
     "url" : "https://github.com/Pretius/apex-enhanced-column-attributes.git"
   },
   "oracle" : {
-    "versions" : ["11.2.0.1"],
+    "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
       "versions" : ["4.1.0", "4.2.0"],
       "plugin" : {
