@@ -3,7 +3,7 @@
   "version" : "1.0.0",
   "description" : "Pretius Enhanced Column Attributes is a Chrome Extension that adds new Application Builder features in APEX 4.x. If you have any installation problem, you can download this plugin from Chrome Store as well.",
   "keywords" : ["chrome", "column", "attributes"],
-  "homepage" : "http://pretius.com/technologies/apex-chrome-extension-2/",
+  "homepage" : "https://github.com/Pretius/apex-enhanced-column-attributes",
   "bugs" : {
     "url" : "https://github.com/Pretius/apex-enhanced-column-attributes/issues",
     "email" : "apex@pretius.com"
