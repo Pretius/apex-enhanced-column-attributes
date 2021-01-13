@@ -6,13 +6,16 @@
   "homepage" : "https://github.com/Pretius/apex-enhanced-column-attributes",
   "bugs" : {
     "url" : "https://github.com/Pretius/apex-enhanced-column-attributes/issues",
-    "email" : "apex@pretius.com"
+    "email" : "apex-plugins@pretius.com"
   },
   "license" : "MIT",
+  "commercial" : "No",
+  "commercially_supported":"No",  
   "author" : {
-    "name" : "Bartosz Ostrowski",
-    "email" : "apex@pretius.com",
-    "url" : "http://www.pretius.com"
+    "name" : "Pretius",
+    "email" : "apex-plugins@pretius.com",
+    "url" : "http://www.pretius.com",
+    "twitter": "PretiusSoftware"
   },
   "repository" : {
     "type" : "git",
